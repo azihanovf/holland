@@ -1,0 +1,164 @@
+{
+  "project_id": "tooropstraat-amsterdam",
+  "checked_on": "2026-10-02",
+  "status": "DRAFT — property identity and publisher unresolved",
+  "brief_source": "hotel-casino-agent-kit/BRIEF-TEMPLATE.txt",
+  "facts": [
+    {
+      "key": "advertising_geo",
+      "value": "Netherlands",
+      "source": "provided by user",
+      "status": "supplied"
+    },
+    {
+      "key": "language",
+      "value": "Dutch",
+      "source": "provided by user",
+      "status": "supplied"
+    },
+    {
+      "key": "keyword",
+      "value": "Holland Casino & Hotel",
+      "source": "provided by user",
+      "status": "conflicting",
+      "note": "Holland Casino connection to the proposed property/address is not verified. Do not present this phrase as the hotel's name or optimize unverified branded claims."
+    },
+    {
+      "key": "proposed_hotel_name",
+      "value": "Tooropstraat Amsterdam",
+      "source": "provided by user",
+      "status": "supplied",
+      "note": "Not independently established as a hotel or casino."
+    },
+    {
+      "key": "proposed_hotel_address",
+      "value": "Jan Tooropstraat 164A, 1061 AE Amsterdam, Netherlands",
+      "source": "provided by user",
+      "status": "conflicting",
+      "note": "Official Holland Casino Amsterdam addresses differ. Address is shown as a briefing address, not a verified hotel address."
+    },
+    {
+      "key": "landbased_casino_at_proposed_hotel",
+      "value": null,
+      "source": "not provided",
+      "status": "unknown"
+    },
+    {
+      "key": "publisher_legal_name",
+      "value": "AdFox Holding OÜ",
+      "source": "user response in this chat, 2026-10-02",
+      "status": "supplied"
+    },
+    {
+      "key": "publisher_legal_address",
+      "value": "Kotkapoja tn 2a-10, 10615 Tallinn, Estonia",
+      "source": "user response in this chat, 2026-10-02",
+      "status": "supplied"
+    },
+    {
+      "key": "publisher_role",
+      "value": "owner",
+      "source": "provided by user",
+      "status": "supplied",
+      "note": "Authority, property ownership and trademark rights are not independently verified; no official/owner claim in public pages."
+    },
+    {
+      "key": "brief_contact_email",
+      "value": "hcamsterdam@gmail.com",
+      "source": "provided by user",
+      "status": "supplied",
+      "note": "Supplied contact for the publisher. Does not establish a hotel/Holland Casino reservations channel. Specific account-holder/process/controller role remains unconfirmed."
+    },
+    {
+      "key": "brief_phone",
+      "value": "+31887775444",
+      "source": "provided by user",
+      "status": "conflicting",
+      "note": "Omitted from site pending independent identity confirmation."
+    },
+    {
+      "key": "casino_minimum_age",
+      "value": "18+",
+      "source": "provided by user",
+      "status": "supplied",
+      "note": "Do not imply admission to an unverified establishment; Dutch general age rule to be independently checked."
+    },
+    {
+      "key": "hotel_operator",
+      "value": null,
+      "source": "not established",
+      "status": "unknown"
+    },
+    {
+      "key": "casino_operator",
+      "value": null,
+      "source": "not established",
+      "status": "unknown"
+    },
+    {
+      "key": "privacy_controller",
+      "value": null,
+      "source": "not provided",
+      "status": "unknown"
+    },
+    {
+      "key": "hosting_provider_and_logs",
+      "value": null,
+      "source": "not provided",
+      "status": "unknown"
+    },
+    {
+      "key": "booking_url",
+      "value": null,
+      "source": "not provided",
+      "status": "unknown"
+    },
+    {
+      "key": "production_url",
+      "value": null,
+      "source": "not provided",
+      "status": "unknown"
+    },
+    {
+      "key": "hotel_rooms_amenities_prices_hours",
+      "value": null,
+      "source": "not provided",
+      "status": "unknown"
+    },
+    {
+      "key": "holland_casino_amsterdam_centrum_address",
+      "value": "Max Euweplein 62, 1017 MB Amsterdam",
+      "source": "https://werkenbij.hollandcasino.nl/vestigingen/",
+      "status": "verified",
+      "checked_on": "2026-10-02",
+      "note": "Research evidence only; not a substitution of the brief's property."
+    },
+    {
+      "key": "holland_casino_amsterdam_sloterdijk_address",
+      "value": "La Guardiaweg 61, 1043 DE Amsterdam",
+      "source": "https://werkenbij.hollandcasino.nl/vestigingen/",
+      "status": "verified",
+      "checked_on": "2026-10-02",
+      "note": "Research evidence only; not a substitution of the brief's property."
+    }
+  ],
+  "implementation": {
+    "tracking": false,
+    "cookies": false,
+    "storage": false,
+    "forms": false,
+    "backend": false,
+    "outbound_mail": "mailto only; user email client composes message",
+    "maps": "none while address identity unresolved",
+    "images": "one explicitly labelled generated Amsterdam atmosphere illustration; no purported property photo"
+  },
+  "pending": [
+    "Identify the real hotel and casino and prove their physical connection",
+    "Resolve keyword/brand authority",
+    "Identify email recipient and controller and processing/retention",
+    "Resolve supplied telephone",
+    "Supply/verify property photographs if desired",
+    "Confirm domain, hosting and ad eligibility before publication",
+    "Confirm publisher role, actual Gmail handling, controller and retention before production"
+  ]
+}

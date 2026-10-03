@@ -1,0 +1,16 @@
+Date: 2026-10-02
+Keyword: Holland Casino & Hotel
+Original random target N: 10 (one draw before authoring).
+Status: BLOCKED / NOT SATISFIED: unresolved hotel/casino/brand identity.
+
+Rendered width: 390 CSS px
+Actual exact count: 1
+Scope: visible main; all FAQ opened; normalized NFC/whitespace; Unicode letter/number boundaries
+Text position: 3229; fragment: et als feit worden gepresenteerd. Is dit een officiële Holland Casino & Hotel-website? Een officiële relatie met Holland Casino is niet vastge
+
+Rendered width: 1440 CSS px
+Actual exact count: 1
+Scope: visible main; all FAQ opened; normalized NFC/whitespace; Unicode letter/number boundaries
+Text position: 3229; fragment: et als feit worden gepresenteerd. Is dit een officiële Holland Casino & Hotel-website? Een officiële relatie met Holland Casino is niet vastge
+
+Editorial check: the lone occurrence is an affiliation question with an explicit unconfirmed answer. It is not repeated as an unverified offer. Main accommodation text does not claim this keyword is the actual property name. Target N is retained and not changed to match the count. Count is equal on desktop/mobile. No hidden duplication or stuffing. Rework a factually corrected brief before keyword acceptance.

@@ -1,0 +1,49 @@
+QA REPORT — TOOROPSTRAAT AMSTERDAM
+Date: 2026-10-02; client timezone Asia/Tbilisi.
+STATUS: DRAFT / PREVIEW. Production and advertising eligibility NOT ESTABLISHED.
+Not a fully verified operating Hotel & Casino landing page.
+No deployment, ads, bookings, calls or sent emails.
+
+A. FACTS — FAIL for production identity; PASS honest draft treatment.
+Method: supplied brief/user response + official primary research. Evidence: fact-sheet.json, property-research.txt, policy-check.txt.
+Publisher AdFox Holding OÜ and Tallinn address are supplied, consistent on five pages. Hotel/casino physical identity, brand authority and controller/process remain unresolved. Supplied conflicting phone omitted. No fabricated rooms/services/prices/hours/reviews/ratings/operators/licences.
+
+B. SOURCE FILES — PASS.
+html-validate 11.4.0: all five pages valid. Node syntax check of vanilla JS passed. No placeholder CTA, lorem ipsum, forbidden binary data URL, eval, inline handler or machine path in public site.
+WebP: Sharp signature/metadata/decode validated four files. CSS 14752 bytes; JS 2604 bytes; all raster images 506560 bytes. All working budgets passed. Evidence: qa/source-qa.json and image-inventory.json.
+
+C. BROWSER SCENARIOS — PASS.
+Playwright 1.62.1, Chromium 143, headless Windows, HTTP loopback root and /test-subdir/. 91 recorded scenarios; failures 0. Evidence: qa/browser-qa.json.
+Main and all policies/resources loaded, titles/descriptions/lang/H1/anchors/legal links checked. Mobile menu Enter/Escape/link focus and resize, FAQ keyboard, skip link focus, mailto and copy success/fallback, no-JS navigation and file:// local navigation checked. No third-party requests, no site console/network errors.
+Browser-initiated responsive-image navigation cancellations: 3, explicitly recorded as net::ERR_ABORTED, not hidden as site failures.
+
+D. MOBILE / ACCESSIBILITY — PASS for recorded scenarios; no claim of full WCAG certification.
+Widths 320, 360, 390, 768, 1024, 1440 CSS px on all five pages; no horizontal overflow. Landscape 844x390 passed. Reduced motion passed. 200% baseline text enlargement via CSSOM passed on five pages. Reflow at 360 CSS px is equivalent layout stress to a 1440px viewport at 400% zoom.
+Native browser UI text-zoom and actual 400% Chrome zoom setting — NOT TESTED. CSSOM/viewport tests are disclosed substitutes, not mislabeled manual browser settings. Assistive screen-reader testing — NOT TESTED.
+axe-core WCAG A/AA checks: zero violations at 390 and 1440 on all five pages; automated incomplete contrast items do not establish full conformance. Readable solid palette and screenshots reviewed manually. Keyboard checked separately; screenshot does not prove keyboard accessibility.
+Independent source and visual review evidence: independent-review.txt and manual-visual-review.txt. Corrections: natural Dutch footer/legal copy, grammar, 200% long-word reflow, unbroken decorative list numbers, resize/mobile anchor focus.
+
+E. SEO — PASS for preview metadata; production SEO NOT APPLICABLE / NOT TESTED.
+Correct nl, one H1, unique title/description, noindex/nofollow on every page, HTML content available without JS. No guessed canonical/sitemap/og URL, false structured data, fake hreflang or star ratings. Entity schema deliberately omitted until identity is established.
+Lighthouse SEO 58: intentional noindex plus tool robots fetch blocked by strict connect-src none CSP. Not a malformed production robots claim. Robots/sitemap will be configured only for a real deployment. Do not remove noindex to improve score.
+
+F. KEYWORD — FAIL / BLOCKED, not claimed satisfied.
+Random N=10; actual rendered visible-main count=1 on both 390/1440, FAQ fully expanded. Evidence keyword-report.txt and browser-qa.json. Official brand/property link unresolved; no forced unsupported repetitions.
+
+G. PRIVACY / STORAGE — PASS for observed implementation; real operation processes unknown.
+No forms, accounts, payments, analytics, ad tags, cookies, localStorage/sessionStorage, embeds or external fonts. No decorative consent UI; consent scenarios NOT APPLICABLE. Privacy accurately describes mailto and unknown host/mailbox/controller/retention. External link GETs all returned 200; no transaction performed. Evidence: qa/external-link-check.json.
+
+H. PERFORMANCE — PASS for laboratory score/budgets; field CWV NOT TESTED.
+Lighthouse 13.5.0, 3 fresh cold mobile runs, simulated default throttling (150ms RTT, 1638.4kbps, CPU 4x), 412x823, DPR1.75, HTTP local preview without compression. Median scores: {'performance': 100, 'accessibility': 100, 'best-practices': 100, 'seo': 58}.
+Median lab metrics: {'first-contentful-paint': 1000.5337999999999, 'largest-contentful-paint': 1501.4513, 'cumulative-layout-shift': 0, 'total-blocking-time': 0, 'speed-index': 1000.5337999999999, 'total-byte-weight': 114431}. TBT is not field INP. Evidence: qa/lighthouse-summary.json, mobile-1/2/3 JSON+HTML.
+Image optimization, render-blocking CSS, readable CSS minification, no local HTTP compression and no-store/bfcache are recorded audit insights. Current small source/image budgets passed. Production headers/compression/CDN/cache/field 75th percentile remain NOT TESTED.
+
+I. DESIGN / ASSETS — PASS within available scope.
+Local design-history.json was read and valid with zero records. No comparative or global uniqueness claim. Original editorial layout and Dutch copy; original generated labelled canal illustration, real WebP derivatives and local UI favicon. Source/prompt/mode saved in asset-sources.txt. Draft design entry exported; not registered as released.
+
+J. ARCHIVE — PASS for extracted candidate site: 66 browser scenarios, zero failures; exact final ZIP CRC/hash/extraction recheck is recorded separately.
+Only site/, README.txt and delivery/ selected; no development dependencies, caches, source PNG, .git or tools. Run finalize.py pack/verify and archive browser scenarios; final exact site files must equal validated hash manifest. Evidence: qa/site-manifest.json and archive-browser-qa.json plus final verification record.
+
+RELEASE CONDITIONS
+Real hotel/casino physical relationship and brand authority; correct property/contact facts; operator/licence and age classification; Gmail/controller/retention/host roles; actual production URL; eventual native zoom/screen-reader review; keyword compliance on corrected facts; Google Ads applicability/certification and age/audience review.
+Files/QA, production readiness and advertising eligibility are separate conclusions.

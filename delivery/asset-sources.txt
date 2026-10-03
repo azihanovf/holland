@@ -1,0 +1,31 @@
+Date: 2026-10-02
+Mode: built-in image_gen through imagegen skill; one generation, no variants.
+Asset: generated atmosphere illustration of generic Amsterdam canals.
+Original working path: outputs/tooropstraat-amsterdam/source-assets/amsterdam-illustration.png
+Original format/dimensions/bytes: PNG, 1536 x 1024, 2,965,269 bytes.
+Public files: site/assets/images/amsterdam-480.webp, amsterdam-800.webp,
+amsterdam-1200.webp, amsterdam-1536.webp. Actual sizes/decoding evidence:
+delivery/image-inventory.json. Converted/resized with Sharp, quality 78, effort 6.
+This is not a third-party property photograph, stock hotel photo, logo or factual
+depiction of the proposed hotel/casino. Site caption and Terms explicitly label it.
+No third-party photography was copied; no hotlinked images or CDN fonts.
+System Georgia/Arial/Helvetica fonts; no downloadable font files.
+Favicon: original small code-authored SVG UI mark, no Holland Casino branding.
+
+FINAL GENERATION PROMPT
+Use case: stylized-concept
+Asset type: editorial atmosphere illustration for a Dutch Amsterdam hotel/casino
+draft website, explicitly a generated illustration rather than a photograph of a property.
+Primary request: A high-quality, sophisticated editorial illustration of Amsterdam
+canal architecture at blue hour, with warm soft window lights reflected in the canal.
+Style/medium: Elegant loose painterly gouache, subtle paper grain, thoughtfully
+simplified forms and expressive brushwork.
+Composition/framing: Wide 3:2 landscape. Canal and architectural facades create
+calm depth; the strongest building group sits in the center and right of the composition.
+Lighting/mood: Quiet blue-hour atmosphere with warm window glow and soft elongated
+reflections in the water.
+Color palette: Restrained teal, ink blue, warm amber, and muted terracotta.
+Constraints: Generic Amsterdam canal architecture only; do not portray or imply
+any specific hotel, casino, property, or hotel interior. No text, logos, signage,
+watermark, casino symbols, playing cards, chips, roulette, people, or children.
+Opaque background. One finished image only.

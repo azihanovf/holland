@@ -1,0 +1,32 @@
+MANUAL VISUAL REVIEW
+Date: 2026-10-02
+Reviewer: independent property/source-review subagent
+Method: view_image, detail original; visual inspection of existing actual QA PNGs. Home full-page image was displayed at 368 x 6000 after the tool resized its 390 x 6363 source; other inspected images displayed at their original dimensions.
+
+ACTUALLY INSPECTED
+delivery/qa/home-top-1440.png
+delivery/qa/home-390.png
+delivery/qa/cookies-390.png
+delivery/qa/privacy-390.png
+delivery/qa/responsible-gambling-390.png
+delivery/qa/terms-390.png
+
+RESULTS — FINAL RECHECK
+PASS — Desktop hero: coherent hierarchy, readable copy/navigation/CTA, no apparent text clipping or overlays. The canal illustration crop retains buildings and reflected light. The preview notice remains conspicuous. The screenshot ends at the hero caption region; that viewport edge is not a page-layout defect.
+PASS — Mobile page flow: single-column hierarchy, main CTA, dark risk section, supplied property address, FAQ, contact and legal footer remain readable. Illustration crop works at mobile width, and its generated/non-property caption is visible. No apparent section overlap, obscured content, clipped address/email or horizontal-page cut-off.
+PASS — Four mobile policy pages: titles, section headings, long paragraphs, callout, list, links and cookie inventory table fit and remain readable. The table wraps cell content without cutting it off. Legal footer/contact are present in each screenshot.
+PASS — Footer data: AdFox Holding OÜ; Kotkapoja tn 2a-10; 10615 Tallinn; Estonia and hcamsterdam@gmail.com visibly fit on all five mobile pages. Publisher address is visually distinct from the supplied Amsterdam property address on the main page.
+PASS / RESOLVED — The initial home-390.png had two-digit decorative numbers split vertically. The main agent repaired the flex span sizing and regenerated browser screenshots. Independently reopened the updated home-390.png with view_image detail original: 01/02/03 in both the dark risk list and practical checklist now render together on one line with consistent spacing. No new clipping or overlap appeared.
+
+SOURCE RECHECK
+PASS — All five footer copies now say Bedrijfsgegevens, with the earlier Rekvizieten removed.
+PASS — The earlier user-facing fictieve/verzonnen phrases are absent, privacy retention wording is factual, and Terms now describe the unknown booking process rather than an invented universal contract-formation rule.
+PASS — main has tabindex=-1; the mobile same-page nav handler now focuses its target section. This is source evidence of the fix, not a keyboard-use result.
+PASS — min-width:0 for layout grid children and overflow-wrap:anywhere are present to permit narrow/zoomed reflow.
+PASS / RESOLVED — index.html:10 and the regenerated mobile screenshot now show the grammatical correction: "Dit concept bevat daarom nog geen concreet verblijfsaanbod." The old mismatched phrase is removed.
+
+Final visual verdict: PASS for the six actually inspected screenshot states and source/editorial fixes. No remaining visual finding in this scope.
+
+LIMITS
+Screenshots do not establish keyboard behavior, focus order/return, screen-reader output, working links/clipboard, network behavior, responsive widths not shown, zoom behavior or measurable WCAG compliance. Menu-open and FAQ-expanded visual states are not shown in these six PNGs. Browser scenario and network/root/subdirectory tests are reported separately by the main agent.
+Visual/source review does not establish the real hotel/casino identity, publisher authority, mailbox ownership, privacy controller, production configuration or advertising eligibility. The site remains a disclosed DRAFT.

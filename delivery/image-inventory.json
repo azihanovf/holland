@@ -1,0 +1,30 @@
+[
+  {
+    "file": "amsterdam-480.webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 34032,
+    "format": "webp"
+  },
+  {
+    "file": "amsterdam-800.webp",
+    "width": 800,
+    "height": 533,
+    "bytes": 82384,
+    "format": "webp"
+  },
+  {
+    "file": "amsterdam-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 159612,
+    "format": "webp"
+  },
+  {
+    "file": "amsterdam-1536.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 230532,
+    "format": "webp"
+  }
+]

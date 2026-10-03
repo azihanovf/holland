@@ -1,0 +1,205 @@
+POLICY CHECK — TOOROPSTRAAT AMSTERDAM CONCEPT
+Checked: 2026-10-02 (user-facing date, Asia/Tbilisi)
+Object country: Netherlands. Advertising GEO: Netherlands. Language: Dutch.
+Requested scope: static accommodation information plus a physical casino; no online gambling.
+Status: DRAFT / NOINDEX PREVIEW ONLY. Advertising eligibility is NOT ESTABLISHED.
+This is a source-based working assessment. Google decides advertising eligibility.
+No advertising campaign, certification application or publication was performed.
+
+PROJECT EVIDENCE
+The brief supplies the name Tooropstraat Amsterdam, Jan Tooropstraat 164A,
+1061 AE Amsterdam, a casino with the same name, owner role, 18+, a Gmail and
+a phone number. These are supplied claims, not independently verified facts.
+Publisher legal entity/address, operator identity, licence, hotel/casino relationship,
+data controller, contact recipient, processing procedures and production URL are
+not established by the brief. A request to omit licence/source verification does
+not establish lawful casino operations or authority to represent a brand.
+The requested phrase Holland Casino & Hotel must not be presented as proof
+of affiliation with Holland Casino. The specific property and brand relationship
+need verification before any advertising-ready release.
+
+PRIMARY SOURCE RECORDS
+Every URL below was researched on the checked date. A crawl date is not treated
+as a publication or effective date. For living help pages with no visible dated
+revision, their publication/update date is recorded as NOT SHOWN.
+
+1. GOOGLE — GAMBLING AND GAMES
+URL: https://support.google.com/adspolicy/answer/15132179?hl=en-GB
+Publication/update date: NOT SHOWN. English enforcement text was read.
+The page has distinct offline, online and social-casino categories. Offline
+promotion covers lawful physical gambling venues; it is forbidden where local
+advertising law prohibits it. Netherlands is not in the illustrative prohibited
+offline locations list, which does not establish this project's eligibility.
+The Netherlands online operator entry requires a Dutch Gambling Authority
+licence. That online table cannot be used as an offline certification shortcut.
+The current general certification section requires current licence credentials,
+evidence connecting advertiser/licensee/domain, a visible age warning, help,
+terms, licensee details and a privacy policy naming the controller. Its application
+tracks expressly name online gambling/promoting content and social/non-casino
+games. The offline track/application applicability is therefore an unresolved
+project condition: confirm it with Google Ads Support for this advertiser/domain.
+Do not claim either a universal offline exemption or that an online certificate is
+automatically required for every offline hotel. Social casino is simulated online
+gambling without a valuable prize and is not this project. The page's September
+2026 application change concerns social casino, not hotel accommodation.
+
+2. GOOGLE — OFFLINE POLICY CHANGE
+URL: https://support.google.com/adspolicy/answer/16703175?hl=en
+Posted/effective: 2025-11-19.
+The change explicitly describes lawful real-world venues, including physical
+casinos, and expands examples of prohibited locations. It is already effective
+on the project check date. A static website advertising a physical venue remains
+offline gambling promotion; the fact that the promotion is on the internet does
+not turn the physical activity into online gambling.
+
+3. GOOGLE — APPLY TO ADVERTISE RESTRICTED PRODUCTS
+URL: https://support.google.com/adspolicy/answer/16114090?hl=en-GB
+Publication/update date: NOT SHOWN.
+Advertiser verification and product-specific advertising permission are separate.
+The listed gambling application products are online gambling/promoting content,
+certain online non-casino games and social casino games. The missing explicit
+offline application track must not be interpreted as guaranteed permission.
+If Google identifies Certificate required, follow its applicable application track.
+No application or account review was performed in this project.
+
+4. GOOGLE — DESTINATION REQUIREMENTS
+URL: https://support.google.com/adspolicy/answer/6368661?hl=en
+Publication/update date: NOT SHOWN.
+The live destination must function on common devices, be accessible in the GEO,
+be crawlable by AdsBot and match the ad URL/content. It must provide useful
+original information rather than solely redirect visitors elsewhere. Do not use
+an email address or downloadable ZIP as an ad final URL. A visible mailto CTA
+within an informative HTML landing page is a separate interaction.
+Local preview checks cannot verify production HTTPS, global AdsBot access,
+server responses or final/display URL consistency. These remain launch checks.
+The concept's noindex designation is a preview safeguard, not AdsBot cloaking.
+Do not hide the casino offer, route crawlers differently or block AdsBot.
+
+5. GOOGLE — MISREPRESENTATION
+URL: https://support.google.com/adspolicy/answer/6020955?hl=en
+Publication/update date: NOT SHOWN.
+Ads and destinations must give honest identity, affiliation, qualifications and
+deliverable services. Unsupported ownership, brand affiliation, licence, hotel
+services, ratings, room availability or guaranteed outcomes create a material
+misrepresentation risk. Do not label the Gmail an official hotel booking channel
+without evidence. Show the actual publisher and contact recipient when known.
+Calling a page a draft does not make misleading operating-property claims safe.
+The preview must openly distinguish brief claims from confirmed operations.
+
+6. GOOGLE — SENSITIVE AUDIENCE RESTRICTIONS
+URLs:
+https://support.google.com/adspolicy/answer/16701250?hl=en-GB
+https://support.google.com/adspolicy/answer/16701756?hl=en-GB
+Publication/update dates: NOT SHOWN.
+Gambling includes online and offline activity as a sensitive interest category.
+Location-based gambling specifically includes physical casinos explicitly
+promoting gambling. Advertiser-curated audiences such as Customer Match,
+your data segments, audience expansion and lookalike segments are disallowed
+for the sensitive category. Predefined Google audiences have separate allowance
+and caveats; local law still applies. No remarketing, audience collection,
+Customer Match, advertising tags or automatic analytics should be enabled by
+this build. Any later campaign settings require a distinct review.
+
+7. GOOGLE — CHILDREN AND TEENS
+URLs:
+https://support.google.com/adspolicy/answer/12205906?hl=en
+https://support.google.com/adspolicy/answer/14170968?hl=en
+Publication/update dates: NOT SHOWN.
+The restricted gambling/casino category expressly includes lodging at casino
+hotels and entertainment hosted at casinos, as well as real-world gambling.
+A hotel-focused headline is not a blanket exemption from age protections.
+Teens under 18 have additional ad-serving protections on Google Accounts;
+child protections apply on the specified Google advertising products. Local
+Dutch restrictions for young adults also apply to casino promotion.
+
+8. KANSSPELAUTORITEIT — ADVERTISING RULES
+URL: https://kansspelautoriteit.nl/belangrijkste-regels-voor-kansspelreclame
+Publication/update date: NOT SHOWN. Full current regulator summary read.
+The regulator states that an unlicensed gambling provider may not advertise.
+The physical casino/slot-hall section excludes minors, 18–23-year-olds and
+self-excluded people; prohibits gambling ads in games/gaming sites and use of
+role models, subject to its stated narrow exceptions; and separates promotional
+messages from addiction-prevention information. Campaigns need a responsible
+age strategy for 24+ audiences. The online KOA section's 95% reach aged 24+
+rule and untargeted-advertising prohibitions must not be silently transplanted
+as universal offline rules. Hybrid providers must ensure offline advertising is
+not reasonably understood as also promoting online gambling. Keep online
+casino links, gambling accounts, deposits and simulated games out of this site.
+
+9. KANSSPELAUTORITEIT — AGE / ACCESS
+URLs:
+https://kansspelautoriteit.nl/publish/library/24/guidance_zorgplicht_speelautomatenhallen_en_speelcasino_s.pdf
+https://kansspelautoriteit.nl/sites/default/files/2026-04/KSA%20Wegwijzer%20Speelautomaten%20voor%20Gemeenten.pdf
+Exact document publication dates: NOT SHOWN in extracted document text.
+The 2026-04 URL path is not treated as an exact publication date.
+The guidance's access Q&A, printed page 10, excludes under-18 visitors and
+people registered in Cruks from casinos/slot halls. The municipal guide,
+printed page 22, says municipalities may set a higher entry age for slot halls.
+Thus 18 is a general statutory minimum, not an independently verified entry
+rule for the supplied property. Confirm venue classification and actual age.
+Do not label the entire hotel adults-only from a casino age restriction.
+Any ID/Cruks check belongs to the lawful venue's actual process; this static
+website must not pretend that it checks identity or Cruks.
+
+10. KANSSPELAUTORITEIT — WARNING TEXT
+URL: https://kansspelautoriteit.nl/nieuwe-waarschuwingszin-kansspelen
+Published: 2021-12-09. Implementation deadline: 2022-04-01.
+The regulator's warning is: Wat kost gokken jou? Stop op tijd. 18+.
+Use clear general risk information, reachable responsible-gambling content and
+this warning where applicable; confirm any operator-specific higher age before
+an operating-property release. Avoid implying that gambling is safe, a source
+of income or a solution to financial problems.
+
+11. DUTCH LEGISLATION — CLASSIFICATION / LEGAL CHECK LIMIT
+Primary legislation record:
+https://wetten.overheid.nl/BWBR0033412/2026-01-01/0
+Version shown by the official search result: effective from 2026-01-01.
+Article 2 includes the vulnerable-group and 18–23 exclusions; article 2(7)
+prohibits gambling advertising by holders of the horeca-slots category
+(Wet op de kansspelen article 30c(1)(a)). This means a hotel with a few slots
+cannot automatically be treated as an advertising-eligible casino/slot hall.
+Access limitation: the full laws page was blocked by robots in the browser
+research tool. Relevant primary search excerpts and the full regulator summary
+were read; this is not a claim of complete legal-text review. Confirm actual
+licence category, municipal conditions and current law before a campaign.
+
+12. PRIMARY HELP RESOURCES
+Dutch help: https://openovergokken.nl/hulplijnen/
+Regulator self-exclusion guidance:
+https://kansspelautoriteit.nl/neem-een-gokstop-met-cruks
+Regulator consumer/authorisation guidance:
+https://kansspelautoriteit.nl/voor-spelers
+Publication/update dates: NOT SHOWN.
+All three returned HTTP 200 during the check. OpenOverGokken is the current
+Ksa-referred service (formerly Loket Kansspel); its Dutch page verifies free,
+anonymous support and the 24/7 number 0800 24 000 22. Cruks guidance verifies
+self-exclusion from licensed Dutch online providers, casinos and slot halls for
+at least six months. Link to the actual external help provider, without claiming
+that the landing-page publisher itself supplies counselling or self-exclusion.
+
+CONCRETE RELEASE CONDITIONS / UNRESOLVED ITEMS
+1. Establish the actual hotel, an operating physical casino at that property,
+   relevant lawful licence/category and any municipal conditions.
+2. Establish publisher legal entity/address, hotel/casino operator and relationship
+   to Holland Casino; evidence of owner/authorised role and brand permissions.
+3. Establish actual Gmail/phone recipient and authority, primary action, and
+   property entry age. Supplied 18+ is not independent verification.
+4. Establish personal-data controller and real email/hosting processing.
+5. Provide production HTTPS URL; repeat live destination and AdsBot checks.
+6. Confirm applicable Google Ads gambling permission/certification track for
+   this advertiser and domain; obtain any required permission before serving.
+7. Review ads, GEO, age strategy, audiences and formats separately. A static
+   site QA pass is not an ad review, certification or legal approval.
+8. Recheck primary policies immediately before any eventual campaign launch.
+
+TECHNICAL VS ADVERTISING RESULT
+Technical implementation/QA: owned by the project's actual QA report; not tested
+by this research document. Advertising/legal readiness: NOT ESTABLISHED.
+Current permissible deliverable: honest labelled local draft with noindex,
+clear missing facts and no unsupported claims. No promise of ad approval.
+
+USER UPDATE AFTER INITIAL RESEARCH (2026-10-02)
+The user supplied publisher AdFox Holding OÜ and legal address Kotkapoja tn 2a-10,
+10615 Tallinn, Estonia. These are now included consistently in the draft and
+fact-sheet with supplied status, not independently verified. Publisher authority,
+property identity, Gmail controller/process and brand relationship remain unresolved.

@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-02",
+  "htmlValidate": "11.4.0",
+  "reports": [
+    {
+      "file": "cookies.html",
+      "valid": true,
+      "results": []
+    },
+    {
+      "file": "index.html",
+      "valid": true,
+      "results": []
+    },
+    {
+      "file": "privacy.html",
+      "valid": true,
+      "results": []
+    },
+    {
+      "file": "responsible-gambling.html",
+      "valid": true,
+      "results": []
+    },
+    {
+      "file": "terms.html",
+      "valid": true,
+      "results": []
+    }
+  ],
+  "bytes": {
+    "css": 14752,
+    "js": 2604,
+    "images": [
+      {
+        "file": "amsterdam-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 34032,
+        "format": "webp"
+      },
+      {
+        "file": "amsterdam-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 82384,
+        "format": "webp"
+      },
+      {
+        "file": "amsterdam-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 159612,
+        "format": "webp"
+      },
+      {
+        "file": "amsterdam-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 230532,
+        "format": "webp"
+      }
+    ],
+    "allImageBytes": 506560
+  },
+  "banned": [],
+  "files": [
+    {
+      "file": "assets\\css\\styles.css",
+      "bytes": 14752
+    },
+    {
+      "file": "assets\\images\\amsterdam-1200.webp",
+      "bytes": 159612
+    },
+    {
+      "file": "assets\\images\\amsterdam-1536.webp",
+      "bytes": 230532
+    },
+    {
+      "file": "assets\\images\\amsterdam-480.webp",
+      "bytes": 34032
+    },
+    {
+      "file": "assets\\images\\amsterdam-800.webp",
+      "bytes": 82384
+    },
+    {
+      "file": "assets\\images\\favicon.svg",
+      "bytes": 290
+    },
+    {
+      "file": "assets\\js\\main.js",
+      "bytes": 2604
+    },
+    {
+      "file": "cookies.html",
+      "bytes": 6215
+    },
+    {
+      "file": "index.html",
+      "bytes": 11820
+    },
+    {
+      "file": "privacy.html",
+      "bytes": 7310
+    },
+    {
+      "file": "responsible-gambling.html",
+      "bytes": 6461
+    },
+    {
+      "file": "terms.html",
+      "bytes": 6535
+    }
+  ],
+  "budgets": {
+    "css": true,
+    "js": true,
+    "maxImage": true,
+    "mobileHero": true,
+    "allImages": true
+  }
+}

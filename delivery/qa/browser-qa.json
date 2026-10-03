@@ -1,0 +1,1227 @@
+{
+  "date": "2026-10-02",
+  "tool": "Playwright 1.62.1",
+  "site": "C:\\Users\\User\\Documents\\ChatGPT\\agent4\\outputs\\tooropstraat-amsterdam\\site",
+  "base": "http://127.0.0.1:8764",
+  "archiveMode": false,
+  "tests": [
+    {
+      "name": "HTTP /index.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Tooropstraat Amsterdam — ontwerpconcept voor verblijf & casino",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "#verblijf",
+          "#casino",
+          "#praktisch",
+          "#vragen",
+          "#contact",
+          "#praktisch",
+          "responsible-gambling.html",
+          "responsible-gambling.html",
+          "https://openovergokken.nl/hulplijnen/",
+          "https://openovergokken.nl/hulplijnen/",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "privacy.html",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Nederlands ontwerpconcept voor verblijf en verantwoord casinobezoek in Amsterdam. Object en relatie met casino zijn nog niet bevestigd; geen boekingsaanbod.",
+        "mainText": 3582
+      }
+    },
+    {
+      "name": "No cookies/storage /index.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Cookiebeleid | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "privacy.html",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Welke cookies, browseropslag en externe technieken dit ontwerpconcept gebruikt.",
+        "mainText": 2582
+      }
+    },
+    {
+      "name": "No cookies/storage /cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Privacybeleid | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "https://policies.google.com/privacy?hl=nl",
+          "https://www.autoriteitpersoonsgegevens.nl/",
+          "https://www.aki.ee/",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Informatie over e-mail, gegevens, uitgever en de nog te bevestigen processen van dit concept.",
+        "mainText": 3867
+      }
+    },
+    {
+      "name": "No cookies/storage /privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Verantwoord spelen | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "https://openovergokken.nl/hulplijnen/",
+          "tel:08002400022",
+          "https://openovergokken.nl/hulpzoeker/",
+          "https://www.cruksregister.nl/",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Risico’s, persoonlijke grenzen, leeftijd en geverifieerde hulp bij gokproblemen in Nederland.",
+        "mainText": 2880
+      }
+    },
+    {
+      "name": "No cookies/storage /responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /terms.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Gebruiksvoorwaarden | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "responsible-gambling.html",
+          "privacy.html",
+          "cookies.html",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Doel, uitgever en beperkingen van dit ontwerpconcept; geen boekings- of online kansspeldienst.",
+        "mainText": 3138
+      }
+    },
+    {
+      "name": "No cookies/storage /terms.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /test-subdir/index.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Tooropstraat Amsterdam — ontwerpconcept voor verblijf & casino",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "#verblijf",
+          "#casino",
+          "#praktisch",
+          "#vragen",
+          "#contact",
+          "#praktisch",
+          "responsible-gambling.html",
+          "responsible-gambling.html",
+          "https://openovergokken.nl/hulplijnen/",
+          "https://openovergokken.nl/hulplijnen/",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "privacy.html",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Nederlands ontwerpconcept voor verblijf en verantwoord casinobezoek in Amsterdam. Object en relatie met casino zijn nog niet bevestigd; geen boekingsaanbod.",
+        "mainText": 3582
+      }
+    },
+    {
+      "name": "No cookies/storage /test-subdir/index.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /test-subdir/cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Cookiebeleid | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "privacy.html",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Welke cookies, browseropslag en externe technieken dit ontwerpconcept gebruikt.",
+        "mainText": 2582
+      }
+    },
+    {
+      "name": "No cookies/storage /test-subdir/cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /test-subdir/privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Privacybeleid | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "https://policies.google.com/privacy?hl=nl",
+          "https://www.autoriteitpersoonsgegevens.nl/",
+          "https://www.aki.ee/",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Informatie over e-mail, gegevens, uitgever en de nog te bevestigen processen van dit concept.",
+        "mainText": 3867
+      }
+    },
+    {
+      "name": "No cookies/storage /test-subdir/privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /test-subdir/responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Verantwoord spelen | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "https://openovergokken.nl/hulplijnen/",
+          "tel:08002400022",
+          "https://openovergokken.nl/hulpzoeker/",
+          "https://www.cruksregister.nl/",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Risico’s, persoonlijke grenzen, leeftijd en geverifieerde hulp bij gokproblemen in Nederland.",
+        "mainText": 2880
+      }
+    },
+    {
+      "name": "No cookies/storage /test-subdir/responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "HTTP /test-subdir/terms.html",
+      "status": "PASS",
+      "evidence": {
+        "title": "Gebruiksvoorwaarden | Tooropstraat Amsterdam — concept",
+        "lang": "nl",
+        "h1": 1,
+        "robots": "noindex, nofollow",
+        "brokenImages": [],
+        "deadAnchors": [],
+        "policyLinks": true,
+        "links": [
+          "#main",
+          "index.html",
+          "index.html#verblijf",
+          "index.html#casino",
+          "index.html#praktisch",
+          "index.html#contact",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "responsible-gambling.html",
+          "privacy.html",
+          "cookies.html",
+          "index.html",
+          "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam",
+          "cookies.html",
+          "privacy.html",
+          "responsible-gambling.html",
+          "terms.html",
+          "https://openovergokken.nl/hulplijnen/"
+        ],
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": "",
+        "canonical": false,
+        "description": "Doel, uitgever en beperkingen van dit ontwerpconcept; geen boekings- of online kansspeldienst.",
+        "mainText": 3138
+      }
+    },
+    {
+      "name": "No cookies/storage /test-subdir/terms.html",
+      "status": "PASS",
+      "evidence": {
+        "storage": [
+          0,
+          0
+        ],
+        "cookie": ""
+      }
+    },
+    {
+      "name": "Reflow 320 index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 320 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 320 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 320 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 320 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 360 index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 360,
+        "document": 360,
+        "body": 360,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 360 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 360,
+        "document": 360,
+        "body": 360,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 360 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 360,
+        "document": 360,
+        "body": 360,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 360 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 360,
+        "document": 360,
+        "body": 360,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 360 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 360,
+        "document": 360,
+        "body": 360,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 390 index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 390 index.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": 2
+          }
+        ],
+        "passes": 26
+      }
+    },
+    {
+      "name": "Reflow 390 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 390 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": 1
+          }
+        ],
+        "passes": 21
+      }
+    },
+    {
+      "name": "Reflow 390 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 390 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": 1
+          }
+        ],
+        "passes": 19
+      }
+    },
+    {
+      "name": "Reflow 390 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 390 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": 1
+          }
+        ],
+        "passes": 21
+      }
+    },
+    {
+      "name": "Reflow 390 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 390 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": 1
+          }
+        ],
+        "passes": 19
+      }
+    },
+    {
+      "name": "Reflow 768 index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 768 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 768 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 768 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 768 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 1024 index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1024,
+        "document": 1024,
+        "body": 1024,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 1024 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1024,
+        "document": 1024,
+        "body": 1024,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 1024 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1024,
+        "document": 1024,
+        "body": 1024,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 1024 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1024,
+        "document": 1024,
+        "body": 1024,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 1024 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1024,
+        "document": 1024,
+        "body": 1024,
+        "offenders": []
+      }
+    },
+    {
+      "name": "Reflow 1440 index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 1440 index.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": 1
+          }
+        ],
+        "passes": 26
+      }
+    },
+    {
+      "name": "Reflow 1440 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 1440 cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [],
+        "passes": 19
+      }
+    },
+    {
+      "name": "Reflow 1440 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 1440 privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [],
+        "passes": 17
+      }
+    },
+    {
+      "name": "Reflow 1440 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 1440 responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [],
+        "passes": 19
+      }
+    },
+    {
+      "name": "Reflow 1440 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "offenders": []
+      }
+    },
+    {
+      "name": "axe WCAG 1440 terms.html",
+      "status": "PASS",
+      "evidence": {
+        "violations": [],
+        "incomplete": [],
+        "passes": 17
+      }
+    },
+    {
+      "name": "Menu keyboard open",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Menu first link receives focus",
+      "status": "PASS",
+      "evidence": "<a href=\"#verblijf\">Verblijf</a>"
+    },
+    {
+      "name": "Menu Escape closes and returns focus",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Menu link closes and focuses target",
+      "status": "PASS",
+      "evidence": "<section id=\"verblijf\" class=\"stay section wrap\" aria-labelledby=\"stay-title\" tabindex=\"-1\"><div class=\"section-label\"><span>01</span><p>Het verblijf</p></div><div class=\"stay-head"
+    },
+    {
+      "name": "Resize to mobile keeps focus visible",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Resize to desktop keeps focus visible",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "FAQ keyboard disclosure",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Copy feedback success/fallback",
+      "status": "PASS",
+      "evidence": "E-mailadres gekopieerd."
+    },
+    {
+      "name": "Skip link keyboard",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Skip link reaches main",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Honest mailto",
+      "status": "PASS",
+      "evidence": "mailto:hcamsterdam@gmail.com?subject=Vraag%20over%20het%20concept%20Tooropstraat%20Amsterdam"
+    },
+    {
+      "name": "Landscape 844x390",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "Reduced motion",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "200% text enlargement index.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "width": 390,
+        "offenders": [],
+        "method": "CSSOM doubles baseline computed text sizes; not claimed as actual browser text-zoom setting"
+      }
+    },
+    {
+      "name": "200% text enlargement cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "width": 390,
+        "offenders": [],
+        "method": "CSSOM doubles baseline computed text sizes; not claimed as actual browser text-zoom setting"
+      }
+    },
+    {
+      "name": "200% text enlargement privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "width": 390,
+        "offenders": [],
+        "method": "CSSOM doubles baseline computed text sizes; not claimed as actual browser text-zoom setting"
+      }
+    },
+    {
+      "name": "200% text enlargement responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "width": 390,
+        "offenders": [],
+        "method": "CSSOM doubles baseline computed text sizes; not claimed as actual browser text-zoom setting"
+      }
+    },
+    {
+      "name": "200% text enlargement terms.html",
+      "status": "PASS",
+      "evidence": {
+        "viewport": 390,
+        "width": 390,
+        "offenders": [],
+        "method": "CSSOM doubles baseline computed text sizes; not claimed as actual browser text-zoom setting"
+      }
+    },
+    {
+      "name": "No JS index.html",
+      "status": "PASS",
+      "evidence": {
+        "menuVisible": true
+      }
+    },
+    {
+      "name": "No JS cookies.html",
+      "status": "PASS",
+      "evidence": {
+        "menuVisible": true
+      }
+    },
+    {
+      "name": "No JS privacy.html",
+      "status": "PASS",
+      "evidence": {
+        "menuVisible": true
+      }
+    },
+    {
+      "name": "No JS responsible-gambling.html",
+      "status": "PASS",
+      "evidence": {
+        "menuVisible": true
+      }
+    },
+    {
+      "name": "No JS terms.html",
+      "status": "PASS",
+      "evidence": {
+        "menuVisible": true
+      }
+    },
+    {
+      "name": "file:// index.html",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "file:// cookies.html",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "file:// privacy.html",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "file:// responsible-gambling.html",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "file:// terms.html",
+      "status": "PASS",
+      "evidence": true
+    },
+    {
+      "name": "file:// navigation",
+      "status": "PASS",
+      "evidence": "file:///C:/Users/User/Documents/ChatGPT/agent4/outputs/tooropstraat-amsterdam/site/cookies.html"
+    },
+    {
+      "name": "No third-party requests",
+      "status": "PASS",
+      "evidence": [
+        "http://127.0.0.1:8764/index.html",
+        "http://127.0.0.1:8764/assets/css/styles.css",
+        "http://127.0.0.1:8764/assets/js/main.js",
+        "http://127.0.0.1:8764/assets/images/amsterdam-800.webp",
+        "http://127.0.0.1:8764/assets/images/favicon.svg",
+        "http://127.0.0.1:8764/cookies.html",
+        "http://127.0.0.1:8764/privacy.html",
+        "http://127.0.0.1:8764/responsible-gambling.html",
+        "http://127.0.0.1:8764/terms.html",
+        "http://127.0.0.1:8764/test-subdir/index.html",
+        "http://127.0.0.1:8764/test-subdir/assets/css/styles.css",
+        "http://127.0.0.1:8764/test-subdir/assets/js/main.js",
+        "http://127.0.0.1:8764/test-subdir/assets/images/amsterdam-800.webp",
+        "http://127.0.0.1:8764/test-subdir/assets/images/favicon.svg",
+        "http://127.0.0.1:8764/test-subdir/cookies.html",
+        "http://127.0.0.1:8764/test-subdir/privacy.html",
+        "http://127.0.0.1:8764/test-subdir/responsible-gambling.html",
+        "http://127.0.0.1:8764/test-subdir/terms.html",
+        "http://127.0.0.1:8764/assets/images/amsterdam-480.webp",
+        "http://127.0.0.1:8764/__qa/axe.min.js"
+      ]
+    },
+    {
+      "name": "No browser/network errors",
+      "status": "PASS",
+      "evidence": []
+    }
+  ],
+  "errors": [],
+  "navigationCancellations": [
+    {
+      "url": "http://127.0.0.1:8764/assets/images/amsterdam-800.webp",
+      "reason": "net::ERR_ABORTED"
+    },
+    {
+      "url": "http://127.0.0.1:8764/assets/images/amsterdam-800.webp",
+      "reason": "net::ERR_ABORTED"
+    },
+    {
+      "url": "http://127.0.0.1:8764/assets/images/amsterdam-800.webp",
+      "reason": "net::ERR_ABORTED"
+    }
+  ],
+  "externalLinks": [
+    "https://openovergokken.nl/hulplijnen/",
+    "https://policies.google.com/privacy?hl=nl",
+    "https://www.autoriteitpersoonsgegevens.nl/",
+    "https://www.aki.ee/",
+    "https://openovergokken.nl/hulpzoeker/",
+    "https://www.cruksregister.nl/"
+  ],
+  "screenshots": [
+    "home-390.png",
+    "home-top-390.png",
+    "cookies-390.png",
+    "privacy-390.png",
+    "responsible-gambling-390.png",
+    "terms-390.png",
+    "home-1440.png",
+    "home-top-1440.png",
+    "cookies-1440.png",
+    "privacy-1440.png",
+    "responsible-gambling-1440.png",
+    "terms-1440.png"
+  ],
+  "keyword": [
+    {
+      "width": 390,
+      "count": 1,
+      "matches": [
+        {
+          "index": 3229,
+          "fragment": "et als feit worden gepresenteerd. Is dit een officiële Holland Casino & Hotel-website? Een officiële relatie met Holland Casino is niet vastge"
+        }
+      ],
+      "scope": "visible main; all FAQ opened; normalized NFC/whitespace; Unicode letter/number boundaries"
+    },
+    {
+      "width": 1440,
+      "count": 1,
+      "matches": [
+        {
+          "index": 3229,
+          "fragment": "et als feit worden gepresenteerd. Is dit een officiële Holland Casino & Hotel-website? Een officiële relatie met Holland Casino is niet vastge"
+        }
+      ],
+      "scope": "visible main; all FAQ opened; normalized NFC/whitespace; Unicode letter/number boundaries"
+    }
+  ]
+}

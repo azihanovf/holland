@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://openovergokken.nl/hulplijnen/",
+    "status": 200,
+    "final_url": "https://openovergokken.nl/hulplijnen/",
+    "content_type": "text/html; charset=UTF-8",
+    "method": "read-only GET; no form, call, email or booking"
+  },
+  {
+    "url": "https://openovergokken.nl/hulpzoeker/",
+    "status": 200,
+    "final_url": "https://openovergokken.nl/hulpzoeker/",
+    "content_type": "text/html; charset=UTF-8",
+    "method": "read-only GET; no form, call, email or booking"
+  },
+  {
+    "url": "https://policies.google.com/privacy?hl=nl",
+    "status": 200,
+    "final_url": "https://policies.google.com/privacy?hl=nl",
+    "content_type": "text/html; charset=utf-8",
+    "method": "read-only GET; no form, call, email or booking"
+  },
+  {
+    "url": "https://www.aki.ee/",
+    "status": 200,
+    "final_url": "https://www.aki.ee/",
+    "content_type": "text/html; charset=UTF-8",
+    "method": "read-only GET; no form, call, email or booking"
+  },
+  {
+    "url": "https://www.autoriteitpersoonsgegevens.nl/",
+    "status": 200,
+    "final_url": "https://www.autoriteitpersoonsgegevens.nl/",
+    "content_type": "text/html; charset=UTF-8",
+    "method": "read-only GET; no form, call, email or booking"
+  },
+  {
+    "url": "https://www.cruksregister.nl/",
+    "status": 200,
+    "final_url": "https://cruksregister.nl/",
+    "content_type": "text/html",
+    "method": "read-only GET; no form, call, email or booking"
+  }
+]

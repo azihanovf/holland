@@ -1,0 +1,45 @@
+{
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "maxScore": 7.22015,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "bron": "BAG",
+        "woonplaatscode": "3594",
+        "type": "adres",
+        "woonplaatsnaam": "Amsterdam",
+        "wijkcode": "WK0363FM",
+        "huis_nlt": "164A",
+        "openbareruimtetype": "Weg",
+        "buurtnaam": "Lucas/Andreasziekenhuis e.o.",
+        "gemeentecode": "0363",
+        "rdf_seealso": "http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0363200012090384",
+        "weergavenaam": "Jan Tooropstraat 164A, Amsterdam",
+        "straatnaam_verkort": "Jan Tooropstr",
+        "id": "adr-7311b55c4813bec49728901f09820442",
+        "gekoppeld_perceel": [
+          "STN02-D-12670"
+        ],
+        "gemeentenaam": "Amsterdam",
+        "buurtcode": "BU0363FM01",
+        "wijknaam": "Overtoomse Veld",
+        "identificatie": "0363010012089010-0363200012090384",
+        "openbareruimte_id": "0363300000003446",
+        "waterschapsnaam": "Waterschap Amstel, Gooi en Vecht",
+        "provinciecode": "PV27",
+        "huisletter": "A",
+        "provincienaam": "Noord-Holland",
+        "centroide_ll": "POINT(4.83824299 52.37074765)",
+        "nummeraanduiding_id": "0363200012090384",
+        "waterschapscode": "11",
+        "adresseerbaarobject_id": "0363010012089010",
+        "huisnummer": 164,
+        "provincieafkorting": "NH",
+        "centroide_rd": "POINT(117614.14 487127.013)",
+        "straatnaam": "Jan Tooropstraat"
+      }
+    ]
+  }
+}

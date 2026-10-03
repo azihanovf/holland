@@ -1,0 +1,26 @@
+{
+  "project_id": "tooropstraat-amsterdam",
+  "date": "2026-10-02",
+  "object": "Tooropstraat Amsterdam (supplied concept name; property unresolved)",
+  "geo": "Netherlands",
+  "language": "nl",
+  "status": "draft-preview",
+  "released": false,
+  "history_scope": "Local registry reviewed; zero existing projects. Cross-project diversity comparison not possible.",
+  "axes": {
+    "hero": "asymmetric ivory editorial copy beside tall-cropped canal illustration",
+    "sections": "open stay spread, full dark responsible band, split practical list, native FAQ, contact",
+    "typography": "Georgia serif with italic emphasis and small-caps system sans-serif labels",
+    "palette": "ivory, canal teal, clay and soft sage",
+    "geometry": "variable two-column proportions and open rules, no repetitive card grid",
+    "photos": "one labelled original generated Amsterdam atmosphere illustration",
+    "navigation": "inline desktop anchors and progressively enhanced nonmodal mobile disclosure",
+    "motif": "quiet typographic numbers, editorial rules and sparse direction arrows"
+  },
+  "section_order": ["draft notice", "hero", "stay", "responsible casino context", "practical address", "FAQ", "publisher contact", "legal footer"],
+  "cta": "honest mailto to supplied publisher contact, with copy fallback",
+  "assets": ["amsterdam-480.webp", "amsterdam-800.webp", "amsterdam-1200.webp", "amsterdam-1536.webp"],
+  "output": "outputs/tooropstraat-amsterdam/site/",
+  "preview": "local only; http://127.0.0.1:8764/ during this session",
+  "registry_action": "Draft entry exported only; not merged into general registry as a released site. Merge/update after factual release conditions are resolved."
+}

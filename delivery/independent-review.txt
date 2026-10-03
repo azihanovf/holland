@@ -1,0 +1,73 @@
+INDEPENDENT SOURCE REVIEW
+Date: 2026-10-02
+Project: Tooropstraat Amsterdam / Dutch / Netherlands
+Reviewed: site/index.html, cookies.html, privacy.html, responsible-gambling.html, terms.html, assets/css/styles.css, assets/js/main.js. Also checked current fact-sheet.json, design-plan.txt and keyword-report.txt for consistency.
+Scope: source/editorial review and factual consistency. Browser, viewport, screen-reader, ZIP and Lighthouse scenarios are the main agent's separate QA. No site files were changed by this reviewer.
+Snapshot: initial implementation before the main agent addresses the findings below. Recheck statuses are recorded by main-agent QA; do not treat this snapshot as a final browser certification.
+
+VERDICT
+Suitable as a plainly disclosed private DRAFT/design concept once minor editorial fixes are made. It is not a verified operating Hotel & Casino offer and not an advertising-ready production landing page. No critical fabricated hotel/casino service claims were found in the reviewed public source.
+
+CONCRETE EDITORIAL FINDINGS
+1. P3 — Non-Dutch footer word on all five pages.
+   "Rekvizieten" is a transliteration rather than idiomatic Dutch. Replace with "Bedrijfsgegevens" or "Gegevens".
+   Locations at review: index.html:22; cookies.html:17; privacy.html:16; responsible-gambling.html:16; terms.html:16.
+   Suggested sentence: "Bedrijfsgegevens verstrekt door de opdrachtgever."
+
+2. P3 — Awkward hospitality wording.
+   index.html:10 uses "concrete verblijfsprestaties". "Verblijfsaanbod" is more natural for visitors. Suggested ending: "Dit concept bevat daarom nog geen concreet verblijfsaanbod."
+
+3. P3 — Policy wording refers to the writing process instead of visitor-facing facts.
+   terms.html:8 says cancellation/payment/refund terms are not "verzonnen"; terms.html:12 says no jurisdiction is "verzonnen"; privacy.html:10 says no "fictieve bewaartermijn" is promised. These are honest but unnecessarily editorial/defensive product text.
+   Prefer factual language: "Annulerings-, betalings- en restitutievoorwaarden zijn nog niet beschikbaar"; "Bewaartermijnen en het verwijderproces zijn nog niet vastgesteld." Remove the sentence about inventing a choice of law/forum; retain the statement that mandatory legal rights are not limited.
+
+4. P3 — Avoid implying that a valid hotel agreement can only arise through a process independently confirmed for this page.
+   terms.html:8 currently says "Een daadwerkelijke verblijfsovereenkomst kan alleen ontstaan via het bevestigde proces van de werkelijke aanbieder." The practical point is the missing booking process, not a universal legal rule about contract formation. Suggested replacement: "Voor een reservering moet u de werkelijke aanbieder en diens voorwaarden gebruiken. Dit concept bevat nog geen bevestigd boekingsproces."
+
+SOURCE CHECKS AND LIMITS
+FACTUAL HONESTY — PASS for DRAFT scope.
+- Every page has a prominent Ontwerpconcept notice; all five have noindex, nofollow.
+- Hotel/casino existence and relationship are explicitly unresolved. The address is labeled as supplied in the brief, not a verified hotel.
+- No invented room inventory, amenities, prices, reviews, casino hours, licence, official operator, ownership or brand partnership.
+- The conflicting supplied +31887775444 is absent from public source.
+- The generated image is explicitly identified as an Amsterdam atmosphere illustration and not a property/casino photograph.
+- No Hotel/Casino structured data promotes an unverified entity.
+
+PUBLISHER / PRIVACY — PASS for disclosed DRAFT scope; NOT READY for operational production.
+- The new supplied AdFox Holding OÜ legal name and Kotkapoja tn 2a-10, 10615 Tallinn, Estonia address are identical across pages and separated from the property address.
+- Public content does not equate AdFox with a proven hotel/casino operator or assert an official Holland Casino relationship.
+- Gmail is described as the supplied contact for concept/publisher questions. Privacy explicitly says mailbox holder, correspondence controller, contractual providers, retention and purposes remain unconfirmed.
+- That disclosure does not establish actual account ownership. Production still requires mailbox/controller confirmation; the displayed contact must remain supplied-only in internal facts.
+- Mailto merely composes a possible message; no form, fake send confirmation, payment or booking operation exists.
+- No fictitious Google processor appointment, DPO, retention interval, deletion guarantee or cookie consent claim.
+
+COOKIE INVENTORY — PASS by source inspection; browser/network confirmation remains separate.
+- JS has no cookies, localStorage, sessionStorage, analytics, pixels, remote fetch, account or age-gate state.
+- CSS uses system fonts, not remote font services. Only local image/CSS/JS assets load from public source.
+- Clipboard copy is described, and failure is caught with a visible select/copy alternative.
+- Cookie/Privacy pages recognize hosting technical requests and email processing rather than claiming no personal data can ever be processed.
+
+RESPONSIBLE GAMBLING — PASS by content/source review.
+- 18+ is presented as the Dutch general threshold, with no guaranteed admission to the unverified casino and no hotel adults-only claim.
+- Risk of loss/addiction, limits, breaks, no chasing losses/borrowing, nonparticipation and help are clear.
+- OpenOverGokken's own current hulplijnen page confirms free anonymous contact, 0800 24 000 22 and 24/7 phone availability. Checked 2026-10-02: https://openovergokken.nl/hulplijnen/
+- Ksa confirms minimum 18 and identity/Cruks checks for physical casino/hall operators: https://kansspelautoriteit.nl/extra-eisen-verslavingspreventie . Checked 2026-10-02. This verifies general rules, not the proposed establishment.
+- The page does not pretend to enroll people in Cruks or block venue entry.
+
+ACCESSIBILITY / MOBILE SOURCE REVIEW — No confirmed critical source defect; rendered/manual testing NOT TESTED by this reviewer.
+- Semantic landmarks, one H1 per page, useful heading hierarchy, skip link, native details/summary, table caption and scopes, visible focus styling, reduced motion and accessible status output are present.
+- JS-off navigation is visible. Mobile menu enhancement uses aria-expanded/controls and Escape with returned focus. It is nonmodal and appropriately does not trap Tab.
+- Long contact strings use overflow-wrap:anywhere. Mobile grids collapse; no overflow-x:hidden mask, sticky CTA conflict, remote font dependency or imposed viewport zoom limit.
+- Static color calculations: muted text/paper 5.56:1; muted/footer 5.16:1; muted/FAQ 5.15:1; ink/white 11.61:1; clay/paper 5.84:1; casino body text/ink 8.70:1; casino accent/ink 7.25:1. These source-color ratios pass normal-text thresholds but do not replace rendered-state checks.
+- Browser test request: activate an open mobile-menu link with Enter and then Tab, and resize while a nav item has focus. main.js:18 hides the nav on click without an explicit focus transfer, and its media-change handler closes nav. Browser-native fragment focus may resolve this; source alone cannot establish a failure. Confirm the next focus target is meaningful and never remains in hidden nav. Label as NOT TESTED until observed.
+- Check 200% text zoom for hard line breaks in large hero headings and the narrow age-panel row. Source inspection does not prove absence of clipping.
+
+KEYWORD — Intentionally unresolved; do not mark requirement PASS.
+- Random target N=10 is recorded. Public main has one neutral FAQ mention of the supplied brand phrase, not repeated unsupported hotel claims. Final rendered count is main-agent browser work.
+- The brief's target is not met. Current keyword-report correctly retains the target and records BLOCKED/DRAFT instead of false completion.
+
+PRODUCTION / ADS — NOT READY, independently of visual or technical success.
+- Property identity, casino co-location, operator, brand relationship and actual contact/controller remain unresolved.
+- Domain/hosting configuration and actual email processes are absent.
+- Supplied publisher data do not establish advertiser eligibility or rights to represent Holland Casino.
+- A good DRAFT and passing source/browser checks must not be called an approved advertisement or fully verified hotel landing page.

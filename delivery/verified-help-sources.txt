@@ -1,0 +1,40 @@
+VERIFIED DUTCH HELP SOURCES — checked 2026-10-02
+Kept outside the public site root. No medical or support service is operated by
+this static landing-page publisher.
+
+1. OpenOverGokken — Dutch help page
+URL: https://openovergokken.nl/hulplijnen/
+Result: HTTP 200. Own Dutch content and official search extraction verified.
+Confirmed support: free and anonymous; telephone 0800 24 000 22, 24/7.
+Recommended public label: Hulp bij gokproblemen — OpenOverGokken.
+Suggested phone href: tel:08002400022
+Website and telephone are external help, not hotel booking contacts.
+Do not imply 24/7 for chat/WhatsApp: the source lists 08.00–00.00 for those.
+Publication/update date: not shown.
+Ksa confirms that OpenOverGokken is its initiative, in an item published
+2026-02-19: https://kansspelautoriteit.nl/zien-gokken-doet-gokken-normalisering-gokgedrag-leidt-tot-meer-gokkers
+Current Ksa consumer guidance calls it formerly Loket Kansspel.
+
+2. Kansspelautoriteit — Cruks self-exclusion guidance
+URL: https://kansspelautoriteit.nl/neem-een-gokstop-met-cruks
+Result: HTTP 200. Full official guidance read.
+Confirmed: a gambling break of at least six months applies to Dutch licensed
+gambling sites, slot halls and casinos. The official guidance leads the user
+to the actual registration process; no registration happens on this site.
+Recommended public label: Neem een gokstop met Cruks.
+Publication/update date: not shown.
+
+3. Kansspelautoriteit — consumer guidance / licence checks
+URL: https://kansspelautoriteit.nl/voor-spelers
+Result: HTTP 200. Official content verified.
+Confirmed: regulator consumer guide directs people to the Kansspelwijzer
+to check whether an online or physical provider has a licence, and to
+OpenOverGokken and Cruks for support.
+Recommended public label: Informatie van de Kansspelautoriteit.
+Publication/update date: not shown.
+
+EDITORIAL IMPLEMENTATION NOTE
+Keep the responsible-gambling page supportive and informational. Do not place
+casino-promotion messaging or a casino-stay booking CTA in its substantive
+help content. Do not claim treatment, venue monitoring, identification or
+Cruks verification as processes performed by this static preview.

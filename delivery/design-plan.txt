@@ -1,0 +1,15 @@
+Date: 2026-10-02
+Project: Tooropstraat Amsterdam; Dutch; Netherlands.
+Status: DRAFT; not a released hotel advertisement.
+History reviewed: hotel-casino-agent-kit/design-history.json, schema_version 1, zero recorded projects. No cross-project uniqueness claim.
+Concept: restrained Amsterdam editorial, warm ivory paper, deep canal teal, clay accent, strong typographic hierarchy and asymmetric open layout.
+Hero: cream editorial text beside a tall cropped original generated canal illustration; large stacked serif headline; no fake hotel photographs or casino branding.
+Navigation: wordmark plus concise anchors; mobile menu progressively enhanced from visible non-JS links; keyboard accessible nonmodal disclosure.
+Section sequence: visible draft warning → hero → two-part stay/evening editorial spread → casino caution and help → briefing location / practical questions → FAQ → honest contact → full legal navigation/footer.
+Typography: system Georgia headlines and system sans-serif body; no external fonts.
+Geometry: variable columns and full-width dark responsibility band, quiet rules, rounded pill actions only; no repeated card grid.
+Imagery: one clearly labelled AI-generated atmosphere illustration; responsive real WebP sizes and reserved intrinsic dimensions.
+Detail: typographic section numbers, large small-caps location labels, compact drawn UI icons only.
+Mobile: image follows concise primary text; generous readable line height; wrapped long email/address, no sticky CTA, nonmodal disclosure navigation.
+Diversity: no prior projects to compare; record the eight design axes for future comparisons. Five-axis/structural comparison is not applicable to an empty registry.
+Factual limit: no hotel amenities, prices, booking, licensed casino claims, supplied phone, official affiliation or invented publisher.

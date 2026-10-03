@@ -1,0 +1,69 @@
+PROPERTY RESEARCH — Tooropstraat Amsterdam brief
+Checked: 2026-10-02 (client date, Asia/Tbilisi)
+Method: official property/operator pages, municipal publication, PDOK/BAG address lookup. No contact with any property; no bookings or messages.
+
+DECISION
+The brief does not establish an identifiable hotel with a physical casino on its premises. A faithful production/advertising Hotel & Casino landing page cannot presently claim that Tooropstraat Amsterdam is an operating hotel/casino, that the publisher owns it, or that the Gmail is its official reservations service. The brief's final instruction also expressly says not to invent missing facts and permits a labeled preview with unresolved questions. A noindex PREVIEW/DRAFT is possible; it must not advertise unverified rooms, services, casino access or bookings.
+
+VERIFIED / CONFLICTING
+1. Holland Casino's current official location directory lists Amsterdam Centrum at Max Euweplein 62, 1017 MB Amsterdam, and Amsterdam Sloterdijk at La Guardiaweg 61, 1043 DE Amsterdam. No Jan Tooropstraat branch appears in that directory.
+Source: https://werkenbij.hollandcasino.nl/vestigingen/
+Retrieved directly by web tool 2026-10-02; directory lines 22–32.
+Status: verified directory addresses; conflicting with any implied Holland Casino branch at Jan Tooropstraat.
+
+2. OLVG's own current site identifies OLVG West at Jan Tooropstraat 164, 1061 AE Amsterdam, as a hospital location. This is number 164, not proof of the exact use of suffix 164A. A 2026 municipal publication also describes the OLVG-West grounds at Jan Tooropstraat 164, 164C, 170 and 172.
+Sources:
+https://www.olvg.nl/locaties/hartfunctieafdeling-locatie-west/
+https://zoek.officielebekendmakingen.nl/gmb-2026-31969.html
+Retrieved 2026-10-02. OLVG page lines 44–48 and 106–109; municipal result was dated 2026.
+Status: verified hospital at number 164; serious discrepancy with the supplied hotel identification, but exact occupant/use at 164A remains unknown.
+
+3. PDOK's official Location Server returns the BAG address Jan Tooropstraat 164A, Amsterdam: nummeraanduiding_id 0363200012090384; adresseerbaarobject_id 0363010012089010; neighbourhood Lucas/Andreasziekenhuis e.o.; parcel STN02-D-12670. The lookup response contains no postcode, property business name, hotel designation, casino designation, or proof of a link to Holland Casino.
+Source: https://api.pdok.nl/bzk/locatieserver/search/v3_1/lookup?id=adr-7311b55c4813bec49728901f09820442
+Retrieved directly using Invoke-RestMethod 2026-10-02. Raw response saved as property-address-lookup.json.
+Status: verified existence of an address with suffix A; supplied full postcode/address association not independently verified for 164A; hotel's existence/use still unknown.
+
+4. The supplied number +31 88 777 5444 (domestic 088 777 5444) is displayed by FysioPelvis on its own site, including its Zoetermeer physiotherapy location. This is independent primary-source evidence of a conflicting contact, so do not publish it as a hotel/casino contact without correction and confirmation.
+Sources:
+https://www.fysiopelvis.nl/
+https://www.fysiopelvis.nl/bekkenfysiotherapie-zoetermeer/
+Checked 2026-10-02 via web search's indexed full page content; direct web open was blocked by 429. State this method limitation rather than implying a live direct fetch succeeded.
+Status: conflicting supplied phone. Source site's repeated domestic number matches the supplied international number.
+
+5. For real Holland Casino physical venues, official evidence supports a minimum age of 18. The current 2025 annual-report compliance section states that admission to a physical or online casino is refused when the person is under 18, and that identity and Cruks checks precede admission. The official employment FAQ also confirms that entering a casino is permitted from age 18. This confirms the real operator's venue threshold; it does not verify an unidentified Tooropstraat casino.
+Sources:
+https://jaarverslag.hollandcasino.nl/jaarverslag-2025/compliance
+https://werkenbij.hollandcasino.nl/holland-casino-als-werkgever/aantrekkelijke-voorwaarden/
+https://corporate.hollandcasino.nl/onze-opdracht/zorgplicht-preventie/preventiebeleid-vestigingen/
+Retrieved 2026-10-02.
+Status: verified 18+ for physical Holland Casino; supplied 18+ for Tooropstraat is unknown because the property/operator is unverified. Do not make the hotel adults-only.
+
+UNKNOWN / SUPPLIED ONLY
+- Hotel/casino name Tooropstraat Amsterdam: supplied; no matching official property/operator confirmation found.
+- A physical casino at the supplied hotel's premises: unknown.
+- hcamsterdam@gmail.com: supplied; identity of account holder, recipient, connection to the property and official-channel status unknown.
+- Publisher legal entity, legal address and controller: blank/unknown.
+- Ownership/authorization: user supplied owner role; no independent verification. Email alone does not establish ownership.
+- Hotel/casino operators: unidentified. Do not silently substitute Holland Casino N.V. or Radisson.
+- Rooms, facilities, rates, hours, accessibility, cancellation rules: not supplied/unknown.
+- Booking URL: absent.
+
+POSSIBLE CORRECTION, REQUIRING USER CHOICE
+There is a real nearby alternative in Sloterdijk: Park Inn by Radisson Amsterdam City West, whose official page gives La Guardiaweg 59 and hotel contacts +31 (0)20 242 00 00 and info.west.amsterdam@parkinn.com. Holland Casino states that its Amsterdam West venue is in the VEN Amsterdam complex with a hotel under one roof; current Holland Casino directory gives the casino La Guardiaweg 61. This is a different property/address and must not replace the brief silently.
+Sources:
+https://www.radissonhotels.com/nl-nl/hotels/park-inn-amsterdam-city
+https://nieuws.hollandcasino.nl/holland-casino-nieuwe-stijl-in-amsterdam-west/
+https://werkenbij.hollandcasino.nl/vestigingen/
+Current Radisson page retrieved 2026-10-02; Holland Casino's co-location news is dated 2018-06-11. Its historic amenities/opening times are not treated as current. An alternative brief would require reconfirming the precise current co-location and publisher role.
+
+ONE COMPACT CRITICAL CLARIFICATION
+Please confirm the real hotel and casino names plus an official source/document for the physical casino at that hotel; correct the address/phone if needed; provide the publisher's legal name/address and confirm who controls hcamsterdam@gmail.com, receives inquiries and acts as data controller. If the intended object is Park Inn by Radisson Amsterdam City West with Holland Casino Sloterdijk in VEN, explicitly confirm that change and the website's actual publisher/authorization role.
+
+LIMITS
+Absence from search results is not proof that a business cannot exist. Exact 164A use remains unknown. The official Holland Casino directory establishes its listed branch addresses, not every gaming hall in Amsterdam. No unsupported conclusion that the property is fabricated is made. No supplied legal entity/Gmail is assigned another operator's identity.
+
+USER UPDATE AFTER INITIAL RESEARCH (2026-10-02)
+The user supplied publisher AdFox Holding OÜ and legal address Kotkapoja tn 2a-10,
+10615 Tallinn, Estonia. These are now included consistently in the draft and
+fact-sheet with supplied status, not independently verified. Publisher authority,
+property identity, Gmail controller/process and brand relationship remain unresolved.
